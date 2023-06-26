@@ -11,7 +11,7 @@ title                    : "Katya Katsy"
 title_separator          : "-"
 name                     : &name "Katya Katsy"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kkatsy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kkatsy/katsy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Katya Katsy"
-  avatar           : "profile.png"
+  avatar           : "katya.png"
   bio              : "MS CS @ UCSD | AI/ML"
   location         : "Bay Area"
   employer         :
@@ -106,6 +106,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
+  goodreads        : "hi"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
