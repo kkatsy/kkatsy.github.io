@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ekaterina, or Katya, Katsy. I am currently a Computer Science Master's student at UCSD, specializing in AI/ML. I earned my BS in Computer Science from UC Davis, with a triple minor in Math, Stats, and Russian. My fields of interest include deep learning, natural language processing, and unsupervised learning.
+My name is Ekaterina, or Katya, Katsy. I am currently a Computer Science Master's student at UCSD, specializing in AI/ML. I earned my BS in Computer Science from UC Davis, with a triple minor in Mathematics, Statistics, and Russian. My fields of interest include deep learning, natural language processing, and unsupervised learning.
 
 Please visit my resume to learn about the research, projects, and courses I have completed.
 
@@ -23,5 +23,3 @@ Interesting tidbits about me:
 - I love sushi more than any other food
 - When I was 12 I memorized 70+ digits of pi
 - I can read and understand a dead language
-
-Go to my "Misc" tab to learn more non-school info.
