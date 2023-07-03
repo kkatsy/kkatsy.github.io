@@ -15,8 +15,11 @@ main:
   - title: "Interests"
     url: /interests/
 
+  - title: "Blog"
+    url: /year-archive/
+
   - title: "Misc"
     url: /misc/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
