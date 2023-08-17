@@ -4,9 +4,12 @@ title: "Misc"
 permalink: /misc/
 author_profile: true
 ---
-Currently reading: (4 Russian + English books)[https://www.goodreads.com/user/show/114553593-katya-katsy] - probably too many at once
-Currently listening: (The History of Byzantium)[https://open.spotify.com/show/2APexkhnuepwYbPhbrq3Mm] - episode 155
-Currently crafting: cross-stitching bookmarks - (my pinterest)[https://www.pinterest.com.mx/katyusha_katsy/]
+Currently reading: [4 Russian + English books](https://www.goodreads.com/user/show/114553593-katya-katsy) - probably too many at once
+
+Currently listening: [The History of Byzantium](https://open.spotify.com/show/2APexkhnuepwYbPhbrq3Mm) - episode 155
+
+Currently crafting: [My Pinterest](https://www.pinterest.com.mx/katyusha_katsy/) - cross-stitching bookmarks
+
 ---
 
 Interesting tidbits about me:
