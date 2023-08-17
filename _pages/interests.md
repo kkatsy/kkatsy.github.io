@@ -5,12 +5,17 @@ permalink: /interests/
 author_profile: true
 ---
 
-Things I'm interested in:
-- a
-- b
-- c
+Academic things I'm interested in:
+- Graph theory, combinatorics
+- Unsupervised learning
+- Social network analysis
+- Natural language processing
+- High-dim. interpretation of deep learning
+- Genetics, bioinformatics, ancestry
+- Literary + neural machine translation
 
-Things I want to learn about:
-- a
-- b
-- c
+Other things I want to learn:
+- Auto repair + how cars work
+- Embroidery, crocheting, knitting
+- Sight reading + music theory
+- History - Byzantine, Slavic, etc
